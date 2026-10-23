@@ -1,0 +1,1 @@
+import{B as e,nt as t}from"./vue-router-D3iwEpXC.js";function n(n){e(()=>{let e=t(n);document.title=e?`${e} — Ncmaz`:`Ncmaz — Magazine & Blog`})}export{n as t};
